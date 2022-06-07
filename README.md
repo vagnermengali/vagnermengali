@@ -19,5 +19,4 @@
   <a href="https://codepen.io/vagner-mengali" target="_blank"><img  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vagner-mengali/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
   
