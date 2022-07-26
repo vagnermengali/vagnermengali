@@ -13,10 +13,7 @@
 <div align="center"> 
     <a href="https://ms-my.facebook.com/vagner.mengali.9" target="_blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:mengaliprofissional@gmail.com"><img  src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.codewars.com/users/Mengali" target="_blank"><img  src="https://img.shields.io/badge/Codewars-%23E60023?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a> 
-  <a href="https://www.hackerrank.com/mengali?hr_r=1" target="_blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/vmengali/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E60023?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/vagner-mengali" target="_blank"><img  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vagner-mengali/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   
