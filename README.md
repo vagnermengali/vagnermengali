@@ -1,6 +1,10 @@
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://rare-gallery.com/thumbs/915746-Louis-Coyle-fantasy-art-digital-art-ultra-wide-gradient.png">
 
 <div align="center"><br>
+  <p>rvrebhurfnjviiwekodqx,domwfjirhu9vefwi0qkomcruvhnf0jecmdq,i9cf3rgnb4tgr8n03vfe29mc-0owx1do0cmf3nrgunrvfi3ec,pefmvrgnv3fui2w2cmef3vrngf2demkw2cef3irnguvh3f2wo,2mefi3nuhrvdijcwokcifevnuhfwnjidmqokfwivnouhwfnjicmdpwfivnouhwfnoiqmdpoifwvnoughvwnofimqpcifjvwnouhnfoicqmdifvwnoubhivfnojmdpofviwnouhvfnqcijdmpckfivwnoubhvnfjiqcmdpijwv</p>
+</div>
+
+<div align="center"><br>
   <a href="https://github.com/vagnermengali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&langs_count=7&theme=dark"/>
