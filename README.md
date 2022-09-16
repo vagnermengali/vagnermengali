@@ -37,7 +37,7 @@ If you have any questions, below is some information about me and some ways to g
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&layout=compact">
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&layout=compact">
 </div>
  
 <div align="center"><br>
