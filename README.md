@@ -1,3 +1,7 @@
+<p align="center">
+  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello!&height=100&section=header"/>
+</p>
+
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
 
 <div align="center"><br>
@@ -45,3 +49,6 @@
 
   </div>
   
+<p align="left">
+  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&height=100&section=footer"/>
+</p>
