@@ -43,7 +43,7 @@
 
 <div align="center"><br>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=cronos)](https://github.com/vagnermengali/rcronos)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=cronos)](https://github.com/vagnermengali/cronos)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie)](https://github.com/vagnermengali/burguer-kenzie)
   
