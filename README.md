@@ -1,4 +1,4 @@
-<img align="center" alt="VagHTML" height="100%" width="100%" src="https://rare-gallery.com/thumbs/915746-Louis-Coyle-fantasy-art-digital-art-ultra-wide-gradient.png">
+<img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.hdqwalls.com/download/deer-digtial-vector-art-5k-gk-2560x1024.jpg">
 
 <div align="center"><br>
   <p></p>
@@ -6,14 +6,14 @@
 
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&chartreuse-dark&langs_count=8">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=jolly&langs_count=8">
 </div>
  
 <div align="center"><br>
   
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
