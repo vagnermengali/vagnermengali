@@ -50,10 +50,10 @@
   
    <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
-<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
-<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
-<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
+  <a href="https://www.instagram.com/vmengali/" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
+<a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
+<a href="https://www.linkedin.com/in/vagner-mengali/" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
+<a href="mailto:mengaliprofissional@gmail.com" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
 </p>
   
 <p align="left">
