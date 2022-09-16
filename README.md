@@ -4,14 +4,15 @@
 
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
 
-<div align="center"><br>
+<div align="center">
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=blue&left_text=ProfileVisits)
  
 </div>
 
 <div align="center"><br>
-  <p>Hi, I'm Vagner, I've been living in Divinolândia-Sp for 21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Phyton, Node.js, SQL, among others.</p>
+  <p>Hi, I'm Vagner, I've been living in Divinolândia-Sp for 21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.<br>
+If you have any questions, below is some information about me and some ways to get in touch!</p>
 </div>
 
 ---
