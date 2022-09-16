@@ -41,10 +41,10 @@
 
  <h3 align="left">My projects</h3>
 <div align="center"><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Cronos">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Burguer-Kenzie">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Nu-Kenzie">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Kenzie-Hub-Typescript">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=cronos">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=kenzie-hub-typescript">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=nu-kenzie">
 </div>
   
 ---
