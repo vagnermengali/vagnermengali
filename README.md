@@ -30,7 +30,7 @@
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&layout=compact">
 </div>
  
 <div align="center"><br>
@@ -39,22 +39,24 @@
   
 ---
 
- <h3 align="left">My projects</h3>
+<h2 align="center">My projects</h2>
+
 <div align="center"><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=cronos">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=kenzie-hub-typescript">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=nu-kenzie">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=vagnermengali/cronos">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=nu-kenzie">
 </div>
   
 ---
   
-   <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.instagram.com/vmengali/" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
-<a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
-<a href="https://www.linkedin.com/in/vagner-mengali/" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
+  <a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
+  <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
 </p>
  
 <p align="left">
