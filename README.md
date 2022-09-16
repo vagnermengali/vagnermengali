@@ -4,13 +4,7 @@
  
  ##
  
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=vagnermengali-github-username&color=blue)
@@ -22,15 +16,13 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Vag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="VagHTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/javascript.png"/>
+  <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/html-5.png"/>
+  <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/git.png"/>
+  <img align="center" alt="VagnerTech" width="40" src="https://img.icons8.com/nolan/64/figma.png"/>
+  <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/react-native.png"/>
+  <img align="center" alt="VagHTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  </div>
  
 ##
@@ -54,6 +46,15 @@
   ![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+  
+  
+   <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
+<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
+<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
+<a href="your link" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
+</p>
   
 <p align="left">
   <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&height=100&section=footer"/>
