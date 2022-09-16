@@ -39,6 +39,7 @@
   
 ---
 
+ <h3 align="left">My projects</h3>
 <div align="center"><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Cronos">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Burguer-Kenzie">
