@@ -1,8 +1,14 @@
 <p align="center">
   <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello!&height=100&section=header&fontColor=fff"/>
 </p>
- 
+
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
+
+<div align="center"><br>
+
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=blue&left_text=ProfileVisits)
+ 
+</div>
 
 <div align="center"><br>
   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
