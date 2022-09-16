@@ -1,4 +1,4 @@
-<img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.hdqwalls.com/download/deer-digtial-vector-art-5k-gk-2560x1024.jpg">
+<img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
 
 <div align="center"><br>
   <p></p>
@@ -6,14 +6,13 @@
 
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=jolly&langs_count=8">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&langs_count=8">
 </div>
  
 <div align="center"><br>
   
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img height="195em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
   
 </div>
 
