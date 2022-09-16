@@ -1,19 +1,19 @@
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://rare-gallery.com/thumbs/915746-Louis-Coyle-fantasy-art-digital-art-ultra-wide-gradient.png">
 
 <div align="center"><br>
-  <p>rvrebhurfnjviiwekodqx,domwfjirhu9vefwi0qkomcruvhnf0jecmdq,i9cf3rgnb4tgr8n03vfe29mc-0owx1do0cmf3nrgunrvfi3ec,pefmvrgnv3fui2w2cmef3vrngf2demkw2cef3irnguvh3f2wo,2mefi3nuhrvdijcwokcifevnuhfwnjidmqokfwivnouhwfnjicmdpwfivnouhwfnoiqmdpoifwvnoughvwnofimqpcifjvwnouhnfoicqmdifvwnoubhivfnojmdpofviwnouhvfnqcijdmpckfivwnoubhvnfjiqcmdpijwv</p>
+  <p></p>
 </div>
 
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=midnight-purple&langs_count=8">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&chartreuse-dark&langs_count=8">
 </div>
  
 <div align="center"><br>
   
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
