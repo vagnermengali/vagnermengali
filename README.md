@@ -34,8 +34,16 @@
 </div>
  
 <div align="center"><br>
-  
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+  
+---
+
+<div align="center"><br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Cronos">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Burguer-Kenzie">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Nu-Kenzie">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=Kenzie-Hub-Typescript">
 </div>
   
 ---
@@ -47,7 +55,7 @@
 <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
 </p>
-  
+ 
 <p align="left">
   <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&height=100&section=footer"/>
 </p>
