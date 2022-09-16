@@ -4,11 +4,10 @@
   <p>rvrebhurfnjviiwekodqx,domwfjirhu9vefwi0qkomcruvhnf0jecmdq,i9cf3rgnb4tgr8n03vfe29mc-0owx1do0cmf3nrgunrvfi3ec,pefmvrgnv3fui2w2cmef3vrngf2demkw2cef3irnguvh3f2wo,2mefi3nuhrvdijcwokcifevnuhfwnjidmqokfwivnouhwfnjicmdpwfivnouhwfnoiqmdpoifwvnoughvwnofimqpcifjvwnouhnfoicqmdifvwnoubhivfnojmdpofviwnouhvfnqcijdmpckfivwnoubhvnfjiqcmdpijwv</p>
 </div>
 
-<div align="center"><br>
+<div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=dark&langs_count=8">
 </div>
  
 <div align="center"><br>
@@ -38,4 +37,12 @@
   <a href="https://www.instagram.com/vmengali/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E60023?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vagner-mengali/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+  ##
+  
+  <div align="center">
+  
+  ![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
   
