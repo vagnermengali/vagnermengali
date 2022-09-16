@@ -9,7 +9,7 @@
 <div align="center"><br>
   <p></p>
 </div>
-
+<h2 align="center">Some Tools I Have Used and Learned</h2>
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="VagHTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/javascript.png"/>
@@ -19,9 +19,8 @@
   <img align="center" alt="VagnerTech" width="50" src="https://img.icons8.com/nolan/64/react-native.png"/>
   <img align="center" alt="VagHTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  </div>
- 
-##
 
+<h2 align="center">My Github statics</h2>
 <div display="flex"  align="center"><br>
   <a href="https://github.com/vagnermengali">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
