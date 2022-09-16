@@ -1,23 +1,13 @@
 <p align="center">
-  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello!&height=100&section=header"/>
+  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello!&height=100&section=header&fontColor=fff"/>
 </p>
-
+ 
+ ##
+ 
 <img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
 
 <div align="center"><br>
   <p></p>
-</div>
-
-<div display="flex"  align="center"><br>
-  <a href="https://github.com/vagnermengali">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&langs_count=8">
-</div>
- 
-<div align="center"><br>
-  
-  <img height="195em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
-  
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -31,6 +21,20 @@
   <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="VagHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div>
+ 
+##
+
+<div display="flex"  align="center"><br>
+  <a href="https://github.com/vagnermengali">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&langs_count=8">
+</div>
+ 
+<div align="center"><br>
+  
+  <img height="195em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
+  
+</div>
   
   ##
   
