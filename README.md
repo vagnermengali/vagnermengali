@@ -35,7 +35,7 @@
  
 <div align="center"><br>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
-   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=vagnermengali&bg_color=050f2c&color=fff&line=0194dd&point=2ddd97&radius=5&area_color=0194dd&area=true&hide_border=true">
+
 </div>
   
 ---
@@ -52,6 +52,7 @@
   <a href="https://github.com/vagnermengali/burguer-kenzie" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/nu-kenzie" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
 </div>
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=vagnermengali&bg_color=050f2c&color=fff&line=0194dd&point=2ddd97&radius=5&area_color=0194dd&area=true&hide_border=true">-->
   
 ---
   
