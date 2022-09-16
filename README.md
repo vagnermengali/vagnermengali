@@ -42,10 +42,15 @@
 <h2 align="center">My projects</h2>
 
 <div align="center"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=vagnermengali/cronos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=nu-kenzie">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=cronos)](https://github.com/vagnermengali/rcronos)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=burguer-kenzie)](https://github.com/vagnermengali/burguer-kenzie)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&repo=nu-kenzie)](https://github.com/vagnermengali/nu-kenzie)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&kenzie-hub-typescript)](https://github.com/vagnermengali/kenzie-hub-typescript)
+  
 </div>
   
 ---
