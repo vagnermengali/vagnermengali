@@ -42,8 +42,12 @@
 <h2 align="center">My projects</h2>
 
 <div align="center"><br>
+  <img align="center" alt="VagHTML" height="160em" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
+  <img align="center" alt="VagHTML" height="160em" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=cronos">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=kenzie-hub-typescript">
+  <img align="center" alt="VagHTML" height="160em" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
+  <img align="center" alt="VagHTML" height="160em" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie">
 </div>
