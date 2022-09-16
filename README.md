@@ -41,13 +41,6 @@
   
   ##
   
-  <div align="center">
-  
-  ![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
-  
-  
    <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/vmengali/" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
