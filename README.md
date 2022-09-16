@@ -48,7 +48,6 @@
   <a href="https://github.com/vagnermengali/kenzie-hub-typescript" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=kenzie-hub-typescript"></a>
    <a href="https://react-entrega-s1-hamburgueria-da-kenzie-vagnermengali.vercel.app/" target="blank"><img align="center" alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
   <a href="https://react-entrega-s1-nu-kenzie-vagnermengali.vercel.app/" target="blank"><img align="center" alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
-</div>
   <a href="https://github.com/vagnermengali/burguer-kenzie" target="blank"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/nu-kenzie" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
 </div>
