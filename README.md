@@ -35,6 +35,7 @@
  
 <div align="center"><br>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
+   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=vagnermengali&bg_color=050f2c&color=fff&line=0194dd&point=2ddd97&radius=5&area_color=0194dd&area=true&hide_border=true">
 </div>
   
 ---
