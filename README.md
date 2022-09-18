@@ -11,9 +11,8 @@
 </div>
 
 <div align="center"><br>
-  <p>Hi, I'm Vagner, I've been  21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.
-If you have any questions, below is some information about me and some ways to get in touch!<br>
-If you have any questions, below is some information about me and some ways to get in touch!</p>
+  <p>Hi, I'm Vagner, I've been  21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.<br>If you have any questions, below is some information about me and some ways to get in touch!
+</p>
 </div>
 
 ---
