@@ -56,7 +56,7 @@
   <a href="https://github.com/vagnermengali/cronos" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=cronos"></a>
   <a href="https://github.com/vagnermengali/kenzie-hub-typescript" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=kenzie-hub-typescript"></a>
   
-  <a href="https://react-entrega-s1-hamburgueria-da-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
+  <a href="https://vercel.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
     <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
     
   <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
