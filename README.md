@@ -52,12 +52,15 @@
 <div align="center"><br>
   <a href="https://repositorio-git-develop-avante.vercel.app/" target="blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
     <a href="https://react-entrega-s2-formulario-de-cadastro-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
+    
   <a href="https://github.com/vagnermengali/cronos" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=cronos"></a>
   <a href="https://github.com/vagnermengali/kenzie-hub-typescript" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=kenzie-hub-typescript"></a>
+  
   <a href="https://react-entrega-s1-hamburgueria-da-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
-    <a href="https://react-entrega-s1-nu-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
+    <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
+    
   <a href="https://github.com/vagnermengali/burguer-kenzie" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
-  <a href="https://github.com/vagnermengali/Hasiriz-Bank" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
+  <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
 </div>
 
   
