@@ -4,13 +4,8 @@
 
 <div align="center">
  
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan&left_text=ProfileVisits)
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
  
-</div>
-
-<div align="center">
-  <p>
-</p>
 </div>
 
 ---
@@ -53,7 +48,6 @@
 ---
 
 <h2 align="center">My Github statics</h2>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
@@ -62,7 +56,6 @@
 ---
 
 <h2 align="center">My projects</h2>
-
 <div align="center"><br>
   <a href="https://repositorio-git-develop-avante.vercel.app/" target="blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
     <a href="https://react-entrega-s2-formulario-de-cadastro-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
@@ -76,21 +69,23 @@
   <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
 </div>
-
   
----
-  
-   <img src="https://activity-graph.herokuapp.com/graph?username=vagnermengali&bg_color=050f2c&color=fff&line=0194dd&point=2ddd97&radius=5&area_color=0194dd&area=true&hide_border=true">
-   
 ---
   
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="https://www.instagram.com/vmengali/" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt=""  width="45" /></a>
-  <a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png" alt=""  width="45" /></a>
-  <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt=""  width="45" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
+  <a href="https://www.instagram.com/vmengali/" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="icon-instagram" width="45" align="center"/>
+ </a>
+  <a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png" alt="icon-facebook" width="45" align="center"/>
+ </a>
+ <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="icon-gmail" width="45" align="center"/>
+ </a>
+  <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
+ </a>
 </p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=footer"/>
