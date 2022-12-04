@@ -48,8 +48,6 @@
 
 <div align="center">
   
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
-  
   ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=2a5f6e)
 </div>
 
