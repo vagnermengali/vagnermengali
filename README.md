@@ -39,9 +39,7 @@
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -60,6 +58,7 @@
 </div>
  
 <div align="center"><br>
+  
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
 
 </div>
