@@ -4,7 +4,7 @@
 
 <h2 align="center">Some Tools I Have Used and Learned</h2>
 
-<img align="right" width="65%" src="https://github.com/vagnermengali/developer.gif/blob/main/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif">
+<img align="right" width="62%" src="https://github.com/vagnermengali/developer.gif/blob/main/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif">
 
 <div align="left">
   <h3>Front-end</h3>
