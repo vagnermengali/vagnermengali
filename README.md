@@ -8,7 +8,7 @@
  
 </div>
 
----
+
 
   <h2 align="center">Some Tools I Have Used and Learned</h2>
 
@@ -50,7 +50,6 @@
  <img align="center" alt="VagHTML" height="35%" width="35%" src="https://github.com/vagnermengali/developer.gif/blob/main/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif">
 </div>
 
----
 
 <h2 align="center">My Github statics</h2>
 <div align="center">  
@@ -58,7 +57,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
 </div>
   
----
+
 
 <h2 align="center">My projects</h2>
 <div align="center"><br>
@@ -75,8 +74,7 @@
   <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
 </div>
   
----
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/vmengali/" target="blank">
