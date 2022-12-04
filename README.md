@@ -1,8 +1,8 @@
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5CF43&height=120&section=header"/>
  <div align="center">
-  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20:747769,100:2a5f6e&text=&height=100&section=header&fontColor=fff"/>
-  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=blue&left_text=ProfileVisits)
-  
+ 
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=yellow&left_text=ProfileVisits)
+ 
 </div>
 
 <div align="center">
@@ -51,16 +51,9 @@
 
 <h2 align="center">My Github statics</h2>
 
-<div display="flex"  align="center">
-  <a href="https://github.com/vagnermengali">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&layout=compact">
-</div>
- 
-<div align="center"><br>
-  
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vagnermengali&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=F5CF43&icon_color=F5CF43&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=F5CF43&text_color=F5CF43&bg_color=0d1117" alt="Vagner Mengali github stats" />
 </div>
   
 ---
@@ -97,6 +90,4 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
 </p>
  
-<p align="left">
-  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff59ff,60:031140&height=100&section=footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5CF43&height=120&section=footer"/>
