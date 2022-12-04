@@ -45,6 +45,14 @@
 <br>
 
 <h2 align="center">My Github statics</h2>
+
+<div align="center">
+  
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
+  
+  ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=2a5f6e)
+</div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
@@ -64,7 +72,6 @@
   <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
 </div>
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -80,9 +87,5 @@
   <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a>
- 
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
- 
-</p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=footer"/>
