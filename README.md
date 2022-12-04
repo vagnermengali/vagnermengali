@@ -1,60 +1,57 @@
-<p align="center">
-  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello+World!&height=100&section=header&fontColor=fff"/>
+ <div align="center">
+  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20:747769,100:2a5f6e&text=&height=100&section=header&fontColor=fff"/>
   
-  <div align="center">
-
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=blue&left_text=ProfileVisits)
- 
-</div>
   
-</p>
+</div>
 
-<img align="center" alt="VagHTML" height="50%" width="50%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
-
-
-
-<div align="center"><br>
+<div align="center">
   <p>Hi, I'm Vagner, I've been  21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.<br>If you have any questions, below is some information about me and some ways to get in touch!
 </p>
 </div>
 
 ---
 
-
-<h2 align="center">Some Tools I Have Used and Learned</h2>
-
-<div style="display: inline_block" align="center"><br>
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-<img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img  align="center" alt="VagnerTech" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<div style="display: flex" justify-content="center" align="center" width="100%">
+  <h2 align="center">Some Tools I Have Used and Learned</h2>
+</div>
+<div style="display: flex" justify-content="center" align="center" width="100%">
+<div style="display: flex" justify-content="flex-start" align="start" width="10%">
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  align="center" alt="VagnerTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+<div tyle="display: flex" justify-content="flex-end" align="end" width="50%">
+  <img align="center" alt="VagHTML" height="35%" width="35%" src="https://github.com/vagnermengali/developer.gif/blob/main/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif">
+</div>
 </div>
 
 ---
 
 <h2 align="center">My Github statics</h2>
 
-<div display="flex"  align="center"><br>
+<div display="flex"  align="center">
   <a href="https://github.com/vagnermengali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&theme=algolia&layout=compact">
@@ -101,5 +98,5 @@
 </p>
  
 <p align="left">
-  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&height=100&section=footer"/>
+  <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff59ff,60:031140&height=100&section=footer"/>
 </p>
