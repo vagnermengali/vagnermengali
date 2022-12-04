@@ -69,6 +69,7 @@
   <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
 </div>
+
   
 ---
   
