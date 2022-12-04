@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a5f6e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I've+been+21+years;I'm+from+Brazil;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
- 
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
- 
-</div>
-
-
-
   <h2 align="center">Some Tools I Have Used and Learned</h2>
 
 <div>
@@ -57,8 +49,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
 </div>
   
-
-
 <h2 align="center">My projects</h2>
 <div align="center"><br>
   <a href="https://repositorio-git-develop-avante.vercel.app/" target="blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
@@ -89,6 +79,9 @@
   <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a>
+ 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan+dark&left_text=ProfileVisits)
+ 
 </p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=footer"/>
