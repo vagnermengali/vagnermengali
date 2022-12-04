@@ -1,14 +1,17 @@
 <p align="center">
   <img align="center" alt="VagHTML" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100:1a053a&text=Hello+World!&height=100&section=header&fontColor=fff"/>
-</p>
-
-<img align="center" alt="VagHTML" height="100%" width="100%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
-
-<div align="center">
+  
+  <div align="center">
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=blue&left_text=ProfileVisits)
  
 </div>
+  
+</p>
+
+<img align="center" alt="VagHTML" height="50%" width="50%" src="https://images.wallpaperscraft.com/image/single/child_silhouette_space_126930_2560x1024.jpg">
+
+
 
 <div align="center"><br>
   <p>Hi, I'm Vagner, I've been  21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.<br>If you have any questions, below is some information about me and some ways to get in touch!
