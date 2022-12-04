@@ -1,12 +1,15 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5CF43&height=120&section=header"/>
- <div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a5f6e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I've+been+21+years;I'm+from+Brazil;I'm+a+Front-end+developer;At+the+moment+I'm+still+studying+the+front-end+and+back-end;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
  
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=yellow&left_text=ProfileVisits)
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vagnermengali.visitor-badge&left_color=black&right_color=cyan&left_text=ProfileVisits)
  
 </div>
 
 <div align="center">
-  <p>Hi, I'm Vagner, I've been  21 years, I'm a Front-end developer and I'm currently entering back-end studies with the aim of learning Python, Node.js, SQL, among others.<br>If you have any questions, below is some information about me and some ways to get in touch!
+  <p>
 </p>
 </div>
 
@@ -52,8 +55,8 @@
 <h2 align="center">My Github statics</h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=F5CF43&icon_color=F5CF43&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=F5CF43&text_color=F5CF43&bg_color=0d1117" alt="Vagner Mengali github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
 </div>
   
 ---
@@ -90,4 +93,4 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank"><img src="https://img.icons8.com/nolan/64/gmail.png" alt=""  width="45" /></a>
 </p>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5CF43&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=footer"/>
