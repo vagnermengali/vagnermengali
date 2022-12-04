@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5f6e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a5f6e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I've+been+21+years;I'm+from+Brazil;I'm+a+Front-end+developer;At+the+moment+I'm+still+studying+the+front-end+and+back-end;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a5f6e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I've+been+21+years;I'm+from+Brazil;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
  
@@ -60,14 +60,14 @@
   <a href="https://repositorio-git-develop-avante.vercel.app/" target="blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
     <a href="https://react-entrega-s2-formulario-de-cadastro-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
     
-  <a href="https://github.com/vagnermengali/cronos" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=cronos"></a>
-  <a href="https://github.com/vagnermengali/react-entrega-s2-formulario-de-cadastro-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=kenzie-hub-typescript"></a>
+  <a href="https://github.com/vagnermengali/cronos" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=cronos"></a>
+  <a href="https://github.com/vagnermengali/react-entrega-s2-formulario-de-cadastro-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=kenzie-hub-typescript"></a>
   
   <a href="https://react-entrega-s1-hamburgueria-da-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
     <a href="https://react-entrega-s1-nu-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
     
-  <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=burguer-kenzie"></a>
-  <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&theme=algolia&repo=nu-kenzie"></a>
+  <a href="https://github.com/vagnermengali/react-entrega-s1-hamburgueria-da-kenzie-vagnermengali" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
+  <a href="https://github.com/vagnermengali/react-entrega-s1-nu-kenzie-vagnermengali" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
 </div>
   
 ---
