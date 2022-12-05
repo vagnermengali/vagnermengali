@@ -62,7 +62,7 @@
     <a href="https://react-entrega-s2-formulario-de-cadastro-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
     
   <a href="https://github.com/vagnermengali/cronos" target="blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=cronos"></a>
-  <a href="https://github.com/vagnermengali/kenzie-hub" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=kenzie-hub-typescript"></a>
+  <a href="https://github.com/vagnermengali/kenzie-hub" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=kenzie-hub"></a>
   
   <a href="https://react-entrega-s1-hamburgueria-da-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
     <a href="https://react-entrega-s1-nu-kenzie-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
