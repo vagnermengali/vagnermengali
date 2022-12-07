@@ -4,13 +4,6 @@
 
 <h2 align="center">Some Tools I Have Used and Learned</h2>
 
-<div align="center">
-  
-  ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=2a5f6e)
-  
-</div>
-
-
 <img align="right" width="60%" src="https://github.com/vagnermengali/developer.gif/blob/main/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif">
 
 <div align="left">
@@ -51,7 +44,14 @@
 
 <br>
 
-<!-- <h2 align="center">My Github statics</h2>
+<h2 align="center">My Github statics</h2>
+
+
+<div align="center">
+  
+  ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=2a5f6e)
+  
+</div>
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
@@ -71,7 +71,7 @@
     
   <a href="https://github.com/vagnermengali/burguer-kenzie" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/nu-kenzie" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
-</div> -->
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
