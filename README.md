@@ -60,17 +60,17 @@
   
 <h2 align="center">My projects</h2>
 <div align="center"><br>
-  <a href="https://cronos-one.vercel.app/" target="blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
-    <a href="https://kenzie-zd1o58vb5-vagnermengali.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
+  <a href="https://cronos-one.vercel.app/" target="_blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
+    <a href="https://kenzie-zd1o58vb5-vagnermengali.vercel.app/" target="_blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
     
-  <a href="https://github.com/vagnermengali/cronos" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=cronos"></a>
-  <a href="https://github.com/vagnermengali/kenzie-hub" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=kenzie-hub"></a>
+  <a href="https://github.com/vagnermengali/cronos" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=cronos"></a>
+  <a href="https://github.com/vagnermengali/kenzie-hub" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=kenzie-hub"></a>
   
-  <a href="https://burguer-kenzie-three.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
-    <a href="https://nu-kenzie-henna.vercel.app/" target="blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
+  <a href="https://burguer-kenzie-three.vercel.app/" target="_blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/burguer-kenzie.png"></a>
+    <a href="https://nu-kenzie-henna.vercel.app/" target="_blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/nu-kenzie.png"></a>
     
-  <a href="https://github.com/vagnermengali/burguer-kenzie" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
-  <a href="https://github.com/vagnermengali/nu-kenzie" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
+  <a href="https://github.com/vagnermengali/burguer-kenzie" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
+  <a href="https://github.com/vagnermengali/nu-kenzie" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
