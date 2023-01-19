@@ -75,16 +75,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/vmengali/" target="blank">
+  <a href="https://www.instagram.com/vmengali/" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="icon-instagram" width="45" align="center"/>
  </a>
-  <a href="https://ms-my.facebook.com/vagner.mengali.9" target="blank">
+  <a href="https://ms-my.facebook.com/vagner.mengali.9" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png" alt="icon-facebook" width="45" align="center"/>
  </a>
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="blank">
+ <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRhQhCBRtwcLRPhrGkgvTRvJGXdChrrcWpmCPbPpGmztksnfhNCdWBXjDLSRNxxFHMgzn" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="icon-gmail" width="45" align="center"/>
  </a>
-  <a href="https://www.linkedin.com/in/vagner-mengali/" target="blank">
+  <a href="https://www.linkedin.com/in/vagnermengali/" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a>
  
