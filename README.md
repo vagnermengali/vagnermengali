@@ -58,7 +58,7 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=2a5f6e&text_color=2a5f6e&bg_color=0d1117" alt="Vagner Mengali github stats" />
 </div>
   
-<h2 align="center">My projects</h2>
+<!-- <h2 align="center">My projects</h2>
 <div align="center"><br>
   <a href="https://cronos-one.vercel.app/" target="_blank"> <img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/cronos.png"></a>
     <a href="https://kenzie-zd1o58vb5-vagnermengali.vercel.app/" target="_blank"><img alt="VagHTML" height="193em" src="https://github.com/vagnermengali/vagnermengali/blob/main/kenzie-hub.png"></a>
@@ -71,7 +71,7 @@
     
   <a href="https://github.com/vagnermengali/burguer-kenzie" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=burguer-kenzie"></a>
   <a href="https://github.com/vagnermengali/nu-kenzie" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=2a5f6e&icon_color=2a5f6e&text_color=c9d1d9&bg_color=0d1117&repo=nu-kenzie"></a>
-</div>
+</div> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
