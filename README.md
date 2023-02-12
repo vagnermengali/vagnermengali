@@ -37,7 +37,7 @@
     <img  alt="VagnerTech" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="right" alt="VagnerTech" height="150" style="border-radius:150px;" src="https://github.com/vagnermengali/vagnermengali/blob/main/IMG_7733%201.jpg?width=676&height=676">
+  <img align="right" alt="VagnerTech" height="150" style="border-radius:150px;" src="https://github.com/vagnermengali/vagnermengali/blob/main/IMG_7734.JPG?width=676&height=676">
 </div>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
