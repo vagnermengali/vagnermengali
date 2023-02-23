@@ -17,7 +17,7 @@
   
  </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)
   
    <div style="display: inline_block"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
