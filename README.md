@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1A43&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1A43&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I'm+22+years+old;I'm+from+Brazil;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1A43&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Vagner+Mengali;I'm+22+years+old;I'm+from+Brazil;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://github.com/vagnermengali)
 
 <!-- <h2 align="center">My Github statics</h2> -->
 
  <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=FF1A43&icon_color=FF1A43&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=FF1A43&text_color=FFf&bg_color=0d1117" alt="Vagner Mengali github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=FF1A43&text_color=FFf&bg_color=0d1117" alt="Vagner Mengali github stats" />
 
 </div>
 
@@ -17,7 +17,7 @@
   
  </div>
 
-  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
   
    <div style="display: inline_block"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
