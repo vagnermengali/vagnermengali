@@ -19,7 +19,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
   
-   <div style="display: inline_block" align="center" justify-content="space-between"><br>
+<!--    <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -37,7 +37,7 @@
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <!--   <img align="right" alt="VagnerTech" height="150" style="border-radius:150px;" src="https://github.com/vagnermengali/vagnermengali/blob/main/IMG_7734.JPG?width=676&height=676"> -->
-</div>
+</div> -->
 <!--   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/vmengali/" target="_blank">
