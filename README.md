@@ -19,7 +19,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
   
-   <div style="display: inline_block"><br>
+   <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -36,9 +36,9 @@
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="right" alt="VagnerTech" height="150" style="border-radius:150px;" src="https://github.com/vagnermengali/vagnermengali/blob/main/IMG_7734.JPG?width=676&height=676">
+<!--   <img align="right" alt="VagnerTech" height="150" style="border-radius:150px;" src="https://github.com/vagnermengali/vagnermengali/blob/main/IMG_7734.JPG?width=676&height=676"> -->
 </div>
-  <h3 align="left">Connect with me:</h3>
+<!--   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/vmengali/" target="_blank">
    <img alt="VagnerTech" align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="icon-instagram" width="45" align="center"/>
@@ -51,7 +51,7 @@
  </a>
   <a href="https://www.linkedin.com/in/vagnermengali/" target="_blank">
    <img alt="VagnerTech" align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
- </a>
+ </a> -->
   <!-- <h2 align="center">Some Tools I Have Used and Learned</h2> -->
 <!-- 
 <img align="right" width="60%" src="https://github.com/vagnermengali/vagnermengali/blob/main/gif.gif"> -->
