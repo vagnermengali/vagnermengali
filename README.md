@@ -1,23 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9d1d9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1A43&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+22+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1A43&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+22+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
 
 <!-- <h2 align="center">My Github statics</h2> -->
 
  <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=c9d1d9&text_color=FFf&bg_color=0d111700" alt="Vagner Mengali github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=FF1A43&icon_color=FF1A43&text_color=c9d1d9&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=FF1A43&text_color=c9d1d9&bg_color=0d111700" alt="Vagner Mengali github stats" />
 
 </div>
 
  <div align="center">  
   
- ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=c9d1d9)
+ ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=FF1A43)
   
  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=c9d1d9&line=c9d1d9&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
