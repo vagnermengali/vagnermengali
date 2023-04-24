@@ -6,8 +6,8 @@
 
  <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=FF1A43&icon_color=FF1A43&text_color=c9d1d9&bg_color=0d1117" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=FF1A43&text_color=FFf&bg_color=0d1117" alt="Vagner Mengali github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=FF1A43&icon_color=FF1A43&text_color=c9d1d9&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=FF1A43&text_color=FFf&bg_color=0d111700" alt="Vagner Mengali github stats" />
 
 </div>
 
@@ -17,7 +17,7 @@
   
  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
