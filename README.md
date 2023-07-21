@@ -16,8 +16,8 @@
  ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=FF1A43)
   
  </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
+ <!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali) -->
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
