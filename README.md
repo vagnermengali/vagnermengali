@@ -11,11 +11,11 @@
 
 </div>
 
- <div align="center">  
+ <!-- <div align="center">  
   
  ![visitor badge](https://komarev.com/ghpvc/?username=vagnermengali&color=FF1A43)
   
- </div>
+ </div> -->
  <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d111700&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali) -->
   
