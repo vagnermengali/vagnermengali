@@ -5,8 +5,7 @@
 <!-- <h2 align="center">My Github statics</h2> -->
 
  <div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&hide_border=true&title_color=212830&icon_color=212830&text_color=9F9F9F&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&&rank_icon=github&hide_border=true&title_color=212830&icon_color=212830&text_color=9F9F9F&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=212830&text_color=9F9F9F&bg_color=0d111700" alt="Vagner Mengali github stats" />
 
 </div>
