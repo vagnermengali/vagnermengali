@@ -16,7 +16,7 @@
   
  </div> -->
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=0d111700&color=ffffff&line=3effe882&point=8c0fee7a&area=false&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=0d111700&color=3effe882&&line=374d7f80&point=8c0fee7a&area=false&hide_border=true)](https://github.com/vagnermengali)
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
