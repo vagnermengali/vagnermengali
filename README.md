@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=212830&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3effe882,100:8c0fee7a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F9F9F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+23+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+23+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
 
 <!-- <h2 align="center">My Github statics</h2> -->
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&&rank_icon=github&hide_border=true&title_color=212830&icon_color=212830&text_color=9F9F9F&bg_color=0d111700" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=212830&text_color=9F9F9F&bg_color=0d111700" alt="Vagner Mengali github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show_icons=true&count_private=true&&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffffc7&bg_color=DEG,3effe882,8c0fee7a" alt="Vagner Mengali github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffffc7&bg_color=DEG,3effe882,8c0fee7a" alt="Vagner Mengali github stats" />
 
 </div>
 
@@ -16,7 +16,7 @@
   
  </div> -->
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=0d111700&color=212830&line=212830&point=9F9F9F&area=false&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=0d111700&color=ffffff&line=3effe882&point=8c0fee7a&area=false&hide_border=true)](https://github.com/vagnermengali)
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -122,4 +122,4 @@
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a> -->
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=212830&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8c0fee7a,100:3effe882&height=120&section=footer"/>
