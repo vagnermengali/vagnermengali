@@ -6,7 +6,7 @@
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show=prs_merged_percentage&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffffc7&bg_color=DEG,3effe882,8c0fee7a" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffffc7&bg_color=DEG,3effe882,8c0fee7a" alt="Vagner Mengali github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffffc7&bg_color=DEG,8c0fee7a,3effe882" alt="Vagner Mengali github stats" />
 
 </div>
 
