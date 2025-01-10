@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3effe882,100:8c0fee7a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3effe882&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+23+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3effe882&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
 
 <!-- <h2 align="center">My Github statics</h2> -->
 
