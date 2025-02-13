@@ -36,12 +36,10 @@
   </a>
 </div>
 
-<a href="https://vagnermengali.com/" target="_blank" rel="noopener noreferrer">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=09090B&color=fafafa&line=818182&point=fafafa&area=true&border_color=27272a&radius=16&title_color=fafafa&area_color=fafafa&grid=false&custom_title=Gráfico%20de%20Contribuições"
     alt="Gráfico de Contribuições"
   />
-</a>
 
 <img
   width="100%"
