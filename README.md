@@ -1,8 +1,8 @@
-<!-- <img
+<img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=wave&color=0:09090B,100:09090B&height=20&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:000&height=120&section=header"
   alt="Cabeçalho"
-/> -->
+/>
 
 <img
   src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=700&&color=050507&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29"
@@ -29,8 +29,8 @@
   alt="Gráfico de Contribuições"
 />
 
-<!--  <img
+<img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,100:09090B&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:000&height=120&section=footer"
   alt="Rodapé"
-/>  -->
+/>
