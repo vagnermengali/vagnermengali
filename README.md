@@ -1,13 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3effe882,100:8c0fee7a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,100:09090B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3effe882&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09090B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29)](https://github.com/vagnermengali)
 
 <!-- <h2 align="center">My Github statics</h2> -->
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&show=prs_merged_percentage&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffffc7&bg_color=DEG,3effe882,8c0fee7a" alt="Vagner Mengali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffffc7&bg_color=DEG,8c0fee7a,3effe882" alt="Vagner Mengali github stats" />
-
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/">
+        <img width="55%" height="295px" src="https://github-readme-stats.vercel.app/api?username=vagnermengali&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=fafafa&text_color=a1a1aa&bg_color=09090B&border_color=27272a&icon_color=fafafa&border_radius=16&locale=pt-br" alt="Vagner Mengali github stats" />
+      </a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/">
+        <img width="44.5%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnermengali&layout=compact&title_color=fafafa&text_color=a1a1aa&bg_color=09090B&border_color=27272a&icon_color=fafafa&border_radius=16&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Vagner Mengali github stats" />
+      </a>
 </div>
 
  <!-- <div align="center">  
@@ -16,7 +19,7 @@
   
  </div> -->
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=0d111700&color=3effe882&&line=374d7fcc&point=8c0fee7a&area=false&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnermengali&bg_color=09090B&color=fafafa&&line=818182&point=fafafa&area=true&border_color=27272a&radius=16&title_color=fafafa&area_color=fafafa&grid=false&custom_title=Gráfico%20de%20Contribuições)](https://github.com/vagnermengali)
   
  <!-- <div style="display: inline_block" align="center" justify-content="space-between"><br>
     <img  alt="VagnerTech" align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -122,4 +125,4 @@
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a> -->
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8c0fee7a,100:3effe882&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,100:09090B&height=120&section=footer"/>
