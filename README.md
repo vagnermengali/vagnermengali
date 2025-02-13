@@ -5,7 +5,7 @@
 /> -->
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=700&&color=000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29"
+  src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=700&&color=050507&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vagner+Mengali;Tenho+24+anos;E+atuo+como+Desenvolvedor+de+software;Seja+bem-vindo!+:%29"
   alt="Typing SVG"
 />
 
