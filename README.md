@@ -13,7 +13,7 @@
   <img
     width="55%"
     height="295px"
-    src="https://github-readme-stats.vercel.app/api?username=vagnermengali&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=27272a&icon_color=6D28D9&border_radius=16&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=vagnermengali&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=pt-br"
     alt="Vagner Mengali Estatísticas"
   />
   <img
