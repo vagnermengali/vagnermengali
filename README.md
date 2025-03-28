@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=030712&height=120&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=120&section=header"
   alt="Cabeçalho"
 />
 
@@ -31,6 +31,6 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=030712&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=120&section=footer"
   alt="Rodapé"
 />
